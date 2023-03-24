@@ -1,0 +1,15 @@
+[submodule "DSAlgo"]
+	path = DSAlgo
+	url = https://github.com/SamirPaul1/DSAlgo.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/SamirPaul1/portfolio.git
+[submodule "MakeNotes"]
+	path = MakeNotes
+	url = https://github.com/SamirPaul1/MakeNotes.git
+[submodule "music"]
+	path = music
+	url = https://github.com/SamirPaul1/music.git
+[submodule "txt-compressor"]
+	path = txt-compressor
+	url = https://github.com/SamirPaul1/txt-compressor.git
