@@ -3,17 +3,12 @@
 <a href="https://samir.pages.dev"> samir.pages.dev </a>
 </h1>
 <p align="center">
-<a href="https://samir.pages.dev">  
-<img alt="Size" src="https://img.shields.io/github/repo-size/SamirPaul1/SamirPaul1.github.io"> 
-</a>
-<a href="https://github.com/SamirPaul1/SamirPaul1.github.io/actions/workflows/pages-deploy.yml"> <img alt="Build and deploy" src="https://github.com/SamirPaul1/SamirPaul1.github.io/actions/workflows/pages-deploy.yml/badge.svg"> </a>
+<a href="https://dash.cloudflare.com/ce79fafa3d6e75765323fc6e81b2b93e/pages/view/samir">Build and deploy</a>
 </p>
 </div>
 
  
 Live Demo:  **https://samir.pages.dev** 
-
-
 
 
 Modification of: [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
