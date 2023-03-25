@@ -1,9 +1,9 @@
 <div align="center">
 <h1> 
-<a href="https://samirpaul1.github.io"> SamirPaul1.github.io </a>
+<a href="https://samir.pages.dev"> samir.pages.dev </a>
 </h1>
 <p align="center">
-<a href="https://samirpaul1.github.io">  
+<a href="https://samir.pages.dev">  
 <img alt="Size" src="https://img.shields.io/github/repo-size/SamirPaul1/SamirPaul1.github.io"> 
 </a>
 <a href="https://github.com/SamirPaul1/SamirPaul1.github.io/actions/workflows/pages-deploy.yml"> <img alt="Build and deploy" src="https://github.com/SamirPaul1/SamirPaul1.github.io/actions/workflows/pages-deploy.yml/badge.svg"> </a>
