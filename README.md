@@ -35,7 +35,7 @@ More instructions:
 1. [Theme's Documentation](https://github.com/cotes2020/jekyll-theme-chirpy#documentation)
 2. [Getting Started](https://chirpy.cotes.page/posts/getting-started/)
 3. [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
-4. In ```_config.toml``` change ```url: https://samirpaul.in```.
+4. In ```_config.toml``` change ```url: https://samir.pages.dev```.
 5. Add all images to ```/assets/img``` and refer as ```/assets/img/File_Name```.
 6. [overriding-theme-defaults](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 7. [CREATE JEKYLL POSTS FROM THE COMMAND LINE](https://gist.github.com/ichadhr/0b4e35174c7e90c0b31b)

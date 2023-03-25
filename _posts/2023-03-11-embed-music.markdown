@@ -15,7 +15,7 @@ pin: false
 ---
 
 
-Embed [<b>samirpaul.in/music/embed</b>](https://samirpaul1.github.io/music/embed) music player(Lofi Study Music) to any website:
+Embed [<b>samir.pages.dev/music/embed</b>](https://samir.pages.dev/music/embed) music player(Lofi Study Music) to any website:
 
 ### Demo:
 
