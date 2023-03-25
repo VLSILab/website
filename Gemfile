@@ -39,6 +39,7 @@ gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
 gem 'jekyll_picture_tag', '~> 2.0'
+gem "jekyll-sass-converter", "~> 2.0"
 
 # gem 'jekyll-compress-images'  # not need as 'Imgbot' installed in the repo
 # gem 'amp-jekyll', '~> 1.0', '>= 1.0.2'
