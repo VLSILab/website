@@ -1,3 +1,66 @@
 [submodule "DSAlgo"]
 	path = DSAlgo
 	url = https://github.com/SamirPaul1/DSAlgo.git
+[submodule "system-design"]
+	path = system-design
+	url = https://github.com/SamirPaul1/system-design.git
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/SamirPaul1/LeetCode.git
+[submodule "url"]
+	path = url
+	url = https://github.com/SamirPaul1/url.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/SamirPaul1/portfolio.git
+[submodule "music"]
+	path = music
+	url = https://github.com/SamirPaul1/music.git
+[submodule "system-design-primer"]
+	path = system-design-primer
+	url = https://github.com/SamirPaul1/system-design-primer.git
+[submodule "ide"]
+	path = ide
+	url = https://github.com/SamirPaul1/ide.git
+[submodule "samirpaul"]
+	path = samirpaul
+	url = https://github.com/SamirPaul1/samirpaul.git
+[submodule "WeatherApp"]
+	path = WeatherApp
+	url = https://github.com/SamirPaul1/WeatherApp.git
+[submodule "link"]
+	path = link
+	url = https://github.com/SamirPaul1/link.git
+[submodule "PyShooter"]
+	path = PyShooter
+	url = https://github.com/SamirPaul1/PyShooter.git
+[submodule "txt-compressor"]
+	path = txt-compressor
+	url = https://github.com/SamirPaul1/txt-compressor.git
+[submodule "MakeNotes"]
+	path = MakeNotes
+	url = https://github.com/SamirPaul1/MakeNotes.git
+[submodule "autocomplete"]
+	path = autocomplete
+	url = https://github.com/SamirPaul1/autocomplete.git
+[submodule "links"]
+	path = links
+	url = https://github.com/SamirPaul1/links.git
+[submodule "top-75-leetcode-questions"]
+	path = top-75-leetcode-questions
+	url = https://github.com/SamirPaul1/top-75-leetcode-questions.git
+[submodule "demo"]
+	path = demo
+	url = https://github.com/SamirPaul1/demo.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/SamirPaul1/mysql.git
+[submodule "CodeforcesVisualizer"]
+	path = CodeforcesVisualizer
+	url = https://github.com/SamirPaul1/CodeforcesVisualizer.git
+[submodule "compress-image"]
+	path = compress-image
+	url = https://github.com/SamirPaul1/compress-image.git
+[submodule "moreThanFAANGM"]
+	path = moreThanFAANGM
+	url = https://github.com/SamirPaul1/moreThanFAANGM.git
