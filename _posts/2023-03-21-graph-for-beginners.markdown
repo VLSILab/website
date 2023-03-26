@@ -19,7 +19,7 @@ pin: false
 
 Sharing some topic wise good Graph problems and sample solutions to observe on how to approach.
 
-List: [https://leetcode.com/list/x1wy4de7](https://leetcode.com/list/x1wy4de7)
+
 
 1. **Union Find:**
     

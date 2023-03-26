@@ -18,7 +18,7 @@ pin: false
 Greedy for practice:
 
 Sharing good Greedy problems for practice:  
-List: [https://leetcode.com/list/xyehq5j6](https://leetcode.com/list/xyehq5j6)
+
 
 **Sort/Array**  
 [https://leetcode.com/problems/jump-game/](https://leetcode.com/problems/jump-game/)  
