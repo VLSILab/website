@@ -15,4 +15,4 @@ pin: false
 ---
 
 
-## [https://github.com/lichenma/LeetCode-CheatSheet](https://github.com/lichenma/LeetCode-CheatSheet)
+##### [github.com/lichenma/LeetCode-CheatSheet](https://github.com/lichenma/LeetCode-CheatSheet)

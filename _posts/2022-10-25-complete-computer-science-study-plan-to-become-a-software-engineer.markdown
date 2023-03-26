@@ -19,4 +19,4 @@ pin: false
 
 ### The Study Plan
 
-### [https://github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+##### [github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)

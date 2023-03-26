@@ -20,4 +20,4 @@ pin: false
 
 > A curated list of lists of technical interview questions.
 
-## [https://github.com/DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+##### [github.com/DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)

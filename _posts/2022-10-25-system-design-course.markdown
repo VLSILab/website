@@ -22,4 +22,4 @@ pin: false
 <a class="btn-lang" href="/assets/doc/system-design.pdf" target = "_blank">Download PDF</a>
 </p>
 
-## [https://github.com/SamirPaul1/system-design](https://github.com/SamirPaul1/system-design)
+##### [github.com/SamirPaul1/system-design](https://github.com/SamirPaul1/system-design)
