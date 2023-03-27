@@ -31,9 +31,6 @@
 [submodule "link"]
 	path = link
 	url = https://github.com/SamirPaul1/link.git
-[submodule "PyShooter"]
-	path = PyShooter
-	url = https://github.com/SamirPaul1/PyShooter.git
 [submodule "txt-compressor"]
 	path = txt-compressor
 	url = https://github.com/SamirPaul1/txt-compressor.git
@@ -61,6 +58,3 @@
 [submodule "compress-image"]
 	path = compress-image
 	url = https://github.com/SamirPaul1/compress-image.git
-[submodule "moreThanFAANGM"]
-	path = moreThanFAANGM
-	url = https://github.com/SamirPaul1/moreThanFAANGM.git
